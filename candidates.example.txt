@@ -1,0 +1,3 @@
+# Paste the top 50 wallets from the Kolscan 30-day leaderboard (https://kolscan.io/leaderboard),
+# one per line. Anything after the address is a label.
+# ExampleWa11etAddressGoesHere1111111111111111  some_kol_name
